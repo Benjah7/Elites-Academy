@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Kasuvilo Elites Academy",
+    "description":"Welcome to Kasuvilo Elites, where we believe that education is the key to unlocking the potential of every student. Our school is a place where students are encouraged to explore their interests, take risks, and become lifelong learners.",
+    "image":"profilepic.jpg",
+    "bio":"Founded in 2015, Kasuvilo Elites Academy has a proud tradition of excellence in education. Our faculty members are highly qualified and passionate about teaching, and they strive to create a supportive and engaging learning environment that helps students reach their full potential. With a focus on hands-on learning and real-world experiences, our curriculum is designed to prepare students for success in college, careers, and life.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with us.",
+    "email": "kasuviloelites.school@gmail.com",
+    "phone": "+254722-426-846 ,+254723-776-793",
+    "github":"https://github.com/Benjah7/Elites-Academy",
+    "project":"https://github.com/Benjah7/Elites-Academy",
+    "address":{
+      "street":"(Off mananja-kasuvilo road)",
+      "city":"(Nairobi)",
+      "Country":"(Kenya)",
+      "zip": "(29-10226,Kambiti)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/Benjah7/Elites-Academy",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/benjamin-mutava-613a3223b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Benjah7/Elites-Academy",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""},
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""}
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":" ",
+        "years":"",
+        "description":"  "    },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      
+      
+      
+      
+      
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"07.jpg",
+        "url":""
+      },
+      
+      {
+        "title":"",
+        "category":"",
+        "image":"08.jpg",
+        "url":""
+      }
+    ]
+  }
+}
